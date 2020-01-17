@@ -1,7 +1,7 @@
 # pythonVisualizingData
 
 ## $ python matplotlibTutorial.py: histogram example
-## $ python analyzeData.py.py: analyze data example
+## $ python analyzeData.py: analyze data example
 ## $ python linePlot.py: dataset line plot example
 ## $ python AreaHistogramBarcharPlotting.py: area plots, histograms and bar charts example
 ## $ python PieCharts_BoxPlots_ScatterPlots_BubblePlots.py: special visualization plot tool like pie chart, box, scatter and bubble plot

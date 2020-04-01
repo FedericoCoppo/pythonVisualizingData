@@ -1,4 +1,4 @@
-## pythonVisualizingData
+## Python Visualizing Data Script
 
 histogram example
 ```
